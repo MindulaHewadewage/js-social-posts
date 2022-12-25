@@ -27,11 +27,11 @@
     margin: 0 auto;
   }
   
-  .posts-list > * {
+  #posts-list > * {
     margin-bottom: 24px;
   }
   
-  .post {
+  #post {
     padding: 16px;
     background-color: white;
   }
